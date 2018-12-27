@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933968779355",
+    "firebase_url": "https://wishme-3f870.firebaseio.com",
+    "project_id": "wishme-3f870",
+    "storage_bucket": "wishme-3f870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933968779355:android:cafd4dd4b61edd91",
+        "android_client_info": {
+          "package_name": "com.example.android.wishme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933968779355-92stretoivqjmd5vdhi8flbq43gd76rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.wishme",
+            "certificate_hash": "4923ffaed5c54726b57f5c7482d7e2056faf0ea3"
+          }
+        },
+        {
+          "client_id": "933968779355-blb2sovpn1gh4j5p19llcpqvvi1i777n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Bs8sk3YYjSnCbLS2staKGXOJ7t4ME7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933968779355-blb2sovpn1gh4j5p19llcpqvvi1i777n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
